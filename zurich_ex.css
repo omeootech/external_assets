@@ -128,6 +128,9 @@ font-size:1em!important
 .teaser.teaser--card{
     margin-bottom: 20px !important;
 }
+.teaser.teaser--card p{
+    font-weight: bold;
+}
 
 @media (max-width: 991px){
  .teaserCostume0 .teaser--media{
